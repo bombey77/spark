@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Nixon Park",
+    "age": 143,
+    "role": {
+      "id": 124523,
+      "name": [
+        "central",
+        "public"
+      ]
+    }
+  },
+  {
+    "name": "Boston Park",
+    "age": 87,
+    "role": {
+      "id": 523785,
+      "name": [
+        "winter",
+        "public"
+      ]
+    }
+  },
+  {
+    "name": "New York Central Park",
+    "age": 122,
+    "role": {
+      "id": 957618,
+      "name": [
+        "old",
+        "public",
+        "central"
+      ]
+    }
+  }
+]
