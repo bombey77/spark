@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Roman",
+    "age": 34,
+    "role": {
+      "name": [
+        "admin",
+        "user"
+      ]
+    }
+  },
+  {
+    "name": "Kathy",
+    "age": 29,
+    "role": {
+      "name": [
+        "user"
+      ]
+    }
+  },
+  {
+    "name": "Petro",
+    "age": 45,
+    "role": {
+      "name": [
+        "guest"
+      ]
+    }
+  },
+  {
+    "name": "Petro",
+    "age": 28,
+    "role": {
+      "name": [
+        "user"
+      ]
+    }
+  }
+]
